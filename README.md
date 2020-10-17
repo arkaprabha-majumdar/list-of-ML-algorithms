@@ -50,3 +50,7 @@ The four cateegories are:
   <li>SARSA</li>
   <li>Deep Q-network</li>
 </ul>
+
+Made for the article : https://www.journaldev.com/?p=44761
+
+© Arkaprabha Majumdar (Journal Dev IT)
