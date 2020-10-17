@@ -9,36 +9,44 @@ The four cateegories are:
 </ul>
 
 # Supervised learning
-Decision Trees
-Naive Bayes Classification
-Support vector machines for classification problems
-Random forest for classification and regression problems
-Linear regression for regression problems
-Ordinary Least Squares Regression
-Logistic Regression
-Ensemble Methods
+<ul>
+  <li>Decision Trees</li>
+  <li>Naive Bayes Classification</li>
+  <li>Support vector machines for classification problems</li>
+  <li>Random forest for classification and regression problems</li>
+  <li>Linear regression for regression problems</li>
+  <li>Ordinary Least Squares Regression</li>
+  <li>Logistic Regression</li>
+  <li>Ensemble Methods</li>
+</ul>
 
 # Unsupervised learning
-K-means for clustering problems
-Apriori algorithm for association rule learning problems
-Principal Component Analysis
-Singular Value Decomposition
-Independent Component Analysis
-Novelty detection
-Deep learning or deep belief networks.
-Bayesian graphical models
-Correspondence Analysis
-Multidimensional scaling
-PLS (partial least squares)
-Agglomerative clustering
+<ul>
+  <li>K-means for clustering problems</li>
+  <li>Apriori algorithm for association rule learning problems</li>
+  <li>Principal Component Analysis</li>
+  <li>Singular Value Decomposition</li>
+  <li>Independent Component Analysis</li>
+  <li>Novelty detection</li>
+  <li>Deep learning or deep belief networks.</li>
+  <li>Bayesian graphical models</li>
+  <li>Correspondence Analysis</li>
+  <li>Multidimensional scaling</li>
+  <li>PLS (partial least squares)</li>
+  <li>Agglomerative clustering</li>
+</ul>
 
 # Semi-supervised learning
-Generative models (GANs)
-Low-density separation
-Graph-based methods (manifold learning)
-Heuristic approaches (using different models to train on different (ideally disjoint) sets of features and generate labeled examples for one another.)
+<ul>
+  <li>Generative models (GANs)</li>
+  <li>Low-density separation</li>
+  <li>Graph-based methods (manifold learning)</li>
+  <li>Heuristic approaches (using different models to train on different (ideally disjoint) sets of features and generate labeled examples for one another.)</li>
+</ul>
 
 # Reinforcement learning
-Q-learning
-SARSA
-Deep Q-network
+<ul>
+  <li>Q-learning</li>
+  <li>SARSA</li>
+  <li>Deep Q-network</li>
+</ul>
